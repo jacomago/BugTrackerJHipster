@@ -2,7 +2,7 @@
     "name": "jdubois-codespaces",
     "image": "jdubois/jdubois-codespaces",
     "settings": {
-        "terminal.integrated.shell.linux": "/bin/bash"
+        "terminal.integrated.shell.linux": "/bin/bash",
     },
     "forwardPorts": [
         8080,
